@@ -30,8 +30,6 @@ pip install pandas
 pip install numpy
 ```
 
-Additionally, matplotlib was used in the creation of the data visualization. This is included in the imports at the beginning of the jupyter notebook. 
-
 In order for this simulation to work, the user needs to create a .env file containing their Alpaca API key and Alpaca secret key.
 
 ---
